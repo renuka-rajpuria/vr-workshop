@@ -1,5 +1,4 @@
 # VR for Game Development Workshop
 
-Conducted by Professor Dinesh Kumar R
-## About Professor Dinesh Kumar:
+Conducted by Professor Dinesh Kumar R, Dept. of Multimedia at VIT
 
